@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+    font-family: monospace;
+    color: navy;
+    padding: 40px;
 }
 
-h1 {
-  color: white;
-  text-align: center;
+.header {
+    font-weight: 500;
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
+.hidden {
+    display: none;
 }
